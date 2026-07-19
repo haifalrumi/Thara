@@ -1,16 +1,33 @@
-Thara
+# Thara – Saudi Heritage Exploration App
 
-Thara is a mobile application that promotes Saudi heritage by helping users explore historical landmarks, cultural sites, and traditional experiences through an interactive and user-friendly interface.
+## Overview
 
-Features
+Thara is a mobile application designed to help users discover Saudi Arabia's historical landmarks and cultural destinations. The application provides an interactive platform where users can explore heritage locations and learn more about the Kingdom's history and traditions.
 
-* Explore heritage sites
-* View cultural information
-* Interactive maps
-* User-friendly interface
-* Responsive design
+---
 
-Technologies Used
+## Project Objectives
 
-* Figma
-* UI/UX Design
+- Promote Saudi heritage through a digital platform.
+- Make cultural sites easier to discover.
+- Provide historical information in an accessible way.
+- Encourage users to explore heritage destinations.
+
+---
+
+## Features
+
+- Browse heritage sites
+- View historical and cultural information
+- Interactive maps
+- Simple and intuitive interface
+- Responsive mobile design
+
+---
+
+## Technologies Used
+
+- Figma
+- UI/UX Design
+
+
